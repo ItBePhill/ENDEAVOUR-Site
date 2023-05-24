@@ -1,0 +1,36 @@
+body {
+    background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.left {
+  position:absolute;
+  left:20px;
+}
+
+.menu {
+  margin-left:10px;
+  margin-right:10px; 
+  margin-top:60px;
+  display: grid;
+  width : 200px;
+  height : 64px;
+  font-size:larger;
+}
+
+.menu_container {
+  margin : 20px;
+}
+
+.glass {
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.09);
+  border-radius: 0px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.6px);
+  -webkit-backdrop-filter: blur(6.6px);
+}
+
+
