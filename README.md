@@ -1,3 +1,3 @@
 # ENDEAVOUR-Site
 
-Made for Web Development at school
+Made for Web Development at college
